@@ -1,2 +1,2 @@
 # UVa-Online-Judge
-My all accepted solutions of UVa Online Judge Problems
+All my accepted solutions of UVa Online Judge Problems
